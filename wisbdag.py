@@ -1,3 +1,4 @@
+#door Thijmen de Groote, Yander van der Wurff en Ralf Bos
 import math
 x=0
 aantalpi=0
