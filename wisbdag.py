@@ -23,5 +23,5 @@ while True:
         print("aantal kannen met pi gevuld= "+ str(aantalpibijg))
         print("aantal keer kan 5 liter leeggegooid= " + str(aantalleegbijg))
         print("getal =" + str(clostest1))
-        print(f"het zit {hoeveelverschil} van 1 verwijderd")
+        print("het zit" + str(hoeveelverschil) "van 1 verwijderd")
         print("")
